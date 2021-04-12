@@ -1,7 +1,6 @@
 
 import 'package:flutter/material.dart';
 import 'package:my_template/constants.dart';
-import 'package:my_template/home/dash_board.dart';
 import 'package:my_template/home/home_page.dart';
 import 'package:my_template/register_screen/register_screen.dart';
 import 'package:my_template/widgets/rounded_button.dart';
